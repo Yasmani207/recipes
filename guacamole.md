@@ -8,4 +8,4 @@
 - garlic
 
 ## instructions
-Mash the avocado
+Mash the avocado, cut onions and cilantro
